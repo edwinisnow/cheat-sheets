@@ -21,13 +21,16 @@ To delete the values configured in the package.json file
 npm config delete init-author-name
 
 To display the package name
+
 npm view packagename
 
 To display the package versions
+
 npm view packagename versions
 
 
 To display the outdated packages
+
 npm outdated
 
 
