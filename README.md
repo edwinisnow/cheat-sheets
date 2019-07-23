@@ -20,7 +20,8 @@ To delete the values configured in the package.json file
 
 npm config delete init-author-name
 
- 
+To know the package name
+npm view packagename
 
 To Intall the packages
 
